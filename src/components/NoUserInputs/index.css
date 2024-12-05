@@ -1,0 +1,9 @@
+.no-user-inputs-container {
+  width: 100%;
+}
+
+.no-user-inputs-image {
+  height: 320px;
+  width: 350px !important;
+  margin-bottom: 10px;
+}
